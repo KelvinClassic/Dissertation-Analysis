@@ -1,0 +1,19 @@
+colnames(dissertation_data)
+gender = dissertation_data$`2. Gender`
+age = dissertation_data$`3. Age`
+nationality = dissertation_data$`4. Nationality`
+department = dissertation_data$`5. What is your department of study?`
+acadlvl = dissertation_data$`6. What is your current academic level?`
+overallrneng = dissertation_data$`8. How would you rate your overall engagement with your studies?`
+coglrneng1 = dissertation_data$`9.1.a. I actively participate in online class discussions on Blackboard. - Cognitive Engagement`
+coglrneng2 = dissertation_data$`9.2.a. I critically analyse and engage with the course materials available on Blackboard. - Cognitive Engagement`
+coglrneng3 =dissertation_data$`9.3.a. I set specific learning goals for myself with my activities on Blackboard. - Cognitive Engagement`
+coglrneng4 = dissertation_data$`9.4.a. I seek out additional resources available on Blackboard to deepen my understanding of the subject matter. - Cognitive Engagement`
+emolrneng1 = dissertation_data$`10.1.a. I am interested in the online resources available on Blackboard. - Emotional Engagement`
+emolrneng2 = dissertation_data$`10.2.a. I feel motivated to succeed academically with the resources and support available on Blackboard. - Emotional Engagement`
+emolrneng3 = dissertation_data$`10.3.a. I experience feelings of frustration or discouragement while accessing resources available on Blackboard. - Emotional Engagement`
+emolrneng4 = dissertation_data$`10.4.a. I feel connected with my studies through Blackboard resources and activities. - Emotional Engagement`
+bhvlrneng1 = dissertation_data$`11.1.a. I frequently access lecture and seminar recordings, course materials, and assessment guides available on Blackboard. - Behavioral Engagement`
+bhvlrneng2 = dissertation_data$`11.2.a. I often complete assigned readings or directed learnings associated with Blackboard. - Behavioral Engagement`
+bhvlrneng3 = dissertation_data$`11.3.a. I participate in extracurricular activities related to my field of study accessible on Blackboard. - Behavioral Engagement`
+bhvlrneng4 = dissertation_data$`11.4.a. I seek help or clarification from teaching staff or classmates when I encounter difficulties with resources on Blackboard. - Behavioral Engagement`
